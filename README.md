@@ -9,3 +9,7 @@ Very Simple CLI Calculator with cool functionality
   * Mood of Two Numbers.
   * power X^2
   * power X ^ Y
+
+# Credits:
+
+ *This App is free of charge and you can use it however you want too
