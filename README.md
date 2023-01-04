@@ -12,4 +12,4 @@ Very Simple CLI Calculator with cool functionality
 
 # Credits:
 
- * This App is free of charge and you can use it however you want too
+ * This App is free of charge and you can use it & Change it however you want too
