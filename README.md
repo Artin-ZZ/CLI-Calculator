@@ -6,6 +6,6 @@ Very Simple CLI Calculator with cool functionality
   * Subtracting Two Numbers.
   * Multiplying Two Numbers.
   * Deviding Two Numbers.
-  * Mode of Two Numbers.
+  * Mood of Two Numbers.
   * power X^2
   * power X ^ Y
