@@ -1,7 +1,7 @@
 # CLI-Calculator
 Very Simple CLI Calculator with cool functionality
 
-# Funcs:
+# Functions:
   * Adding Tow Numbers.
   * Subtracting Two Numbers.
   * Multiplying Two Numbers.
